@@ -78,8 +78,10 @@ The experience gained here contributes significantly to my journey as a finance 
 
 ## Report Links
 
-- [Customer Performance Report](#)
-- [Market Performance and Sales Targets Comparison Report](#)
-- [Profit and Loss (P&L) Reports by Fiscal Year and Months](#)
-- [Profit and Loss (P&L) Reports by Markets](#)
+- [Customer Performance Report](https://github.com/Arshdeep0204/AtliQ_Excel_Report/blob/main/Customer_Performance_Report.pdf)
 
+- [Market Performance and Sales Targets Comparison Report](https://github.com/Arshdeep0204/AtliQ_Excel_Report/blob/main/Market_Performance_Report.pdf)
+
+- [Profit and Loss (P&L) Report – Monthly](https://github.com/Arshdeep0204/AtliQ_Excel_Report/blob/main/ProfitnLoss_Monthly.pdf)
+
+- [Profit and Loss (P&L) Report – Yearly](https://github.com/Arshdeep0204/AtliQ_Excel_Report/blob/main/ProfitnLoss_Yearly.pdf)
